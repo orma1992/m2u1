@@ -1,0 +1,59 @@
+h1{
+    background: #47a8b1;
+    background: radial-gradient(ellipse farthest-corner at center center, #47a8b1 2%, #1300a7 80%);;
+    background-color: darkcyan;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+h2{
+    background: #b19647;
+    background: linear-gradient(90deg,#b19647 2%, #a71800 80%);;
+    background-color: blue;
+}
+
+h3{
+    color:darkgreen;
+    font-family: 'Gill Sans';
+}
+
+.destacados{
+    color:red;
+    font-weight: bolder;
+}
+
+p{
+    color: cornflowerblue;
+    text-align: center;
+    line-height: 15px;
+    font-family: Verdana;
+    column-count: 3;
+    column-gap: 20px;
+}
+
+img{
+    border-radius: 109px 77px 123px 77px;
+    -webkit-border-radius: 109px 77px 123px 77px;
+    -moz-border-radius: 109px 77px 123px 77px;
+    border: 22px solid #50fcff;
+}
+
+audio{
+    box-shadow: 22px 32px 46px 13px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 22px 32px 46px 13px rgba(0,0,0,0.75);
+    -moz-box-shadow: 22px 32px 46px 13px rgba(0,0,0,0.75);
+}
+
+video{
+    box-shadow: 52px -79px 46px 13px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 52px -79px 46px 13px rgba(0,0,0,0.75);
+    -moz-box-shadow: 52px -79px 46px 13px rgba(0,0,0,0.75);
+}
+
+.mejorserie{
+    color:whitesmoke;
+    background: #ff0000;
+    background: linear-gradient(90deg,#ff0000 0%, #00ff00 80%);
+    background: -webkit-linear-gradient(90deg,#ff0000 0%, #00ff00 80%);
+    background: -moz-linear-gradient(90deg,#ff0000 0%, #00ff00 80%);
+}
